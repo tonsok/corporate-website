@@ -3,3 +3,4 @@
 import './base/normalize.css';
 import './base/skeleton.css';
 import './top.css';
+import './news.css';
