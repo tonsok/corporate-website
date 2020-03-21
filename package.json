@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "parcel ./src/index.html"
+        "dev": "parcel ./src/index.html -p 8000"
     },
     "repository": {
         "type": "git",
@@ -19,5 +19,6 @@
     "homepage": "https://github.com/tonsok/corporate-website#readme",
     "devDependencies": {
         "parcel-bundler": "^1.12.4"
-    }
+    },
+    "dependencies": {}
 }
