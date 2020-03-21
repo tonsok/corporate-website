@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "parcel ./src/index.html -p 8000"
+        "dev": "parcel ./src/*.html -p 8000"
     },
     "repository": {
         "type": "git",
