@@ -1,3 +1,5 @@
-body {
-    
+#sub_cover {
+    padding:80px 0 ;
+    background-image:url(../../images/sub_cover.jpg) ;
+    background-size: cover;
 }
